@@ -1,4 +1,4 @@
-# 🚀 Mini CRM Dashboard (Full Stack)
+# 🚀 Mini CRM Dashboard (Full Stack).
 
 A modern, production-ready Mini CRM application built as part of the **Future Interns – Task 2** assignment.  
 This project demonstrates full-stack development skills including frontend UI design, backend API development, database integration, and cloud deployment.
